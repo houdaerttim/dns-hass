@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T10:50:45.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="YzQZHW2wwypib1-CRiHs" version="16.4.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-27T11:59:51.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="8XjyxtGXDStEQIxf9u3F" version="16.4.6" type="github" pages="4">
   <diagram id="cBR6qpUwEx_UAcRYlCrC" name="light.hall_motion_nextStep">
     <mxGraphModel dx="1335" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -772,6 +772,11 @@
         <mxCell id="YzqaZjKodFkRAlTuyNxR-9" value="Light on" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="7Sb-PwqGipjJirI4NhuI-1">
           <mxGeometry x="880" y="350" width="120" height="30" as="geometry" />
         </mxCell>
+        <UserObject label="https://community.home-assistant.io/t/how-to-use-input-number-in-node-red/138449/6" link="https://community.home-assistant.io/t/how-to-use-input-number-in-node-red/138449/6" id="7lAqxoJEpL3tDr4OboAt-0">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="7Sb-PwqGipjJirI4NhuI-1">
+            <mxGeometry x="260" y="240" width="480" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
